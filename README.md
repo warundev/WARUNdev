@@ -10,8 +10,7 @@
        alt="snake" /></a>
 </div><br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=warundev&label=Profile%20views&color=0e75b6&style=flat" alt="warundev" /> </p><br>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=warundev&label=Profile%20views&color=0e75b6&style=flat" alt="warundev" /> </p>
 
 - 🌱 I’m currently learning **App Development**
 
@@ -38,7 +37,7 @@
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=warundev&show_icons=true&locale=en&layout=compact" alt="warundev" /></p>
 
-<p align="right">
+<p align="center">
 <img align="" src="https://github-readme-stats.vercel.app/api?username=warundev&show_icons=true&locale=en" alt="warundev" />
 <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=warundev&" alt="warundev" /></p>
 
