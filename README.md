@@ -1,14 +1,16 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<h1 align="center">Hi 👋, I'm WARUNA LIYANAPATHIRANA</h1>
+<h3 align="center">
+  
+  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm WARUNA LIYANAPATHIRANA</h1>
 <h3 align="center">A passionate FullStack Developer from Sri Lanka.</h3>
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div><br>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=warundev&label=Profile%20views&color=0e75b6&style=flat" alt="warundev" /> </p>
 
