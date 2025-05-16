@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **App Development**
 
-- 💬 Ask me about **HTML5,CSS,JS,JAVA,C,C++,C#,Python,Dart**
+- 💬 Ask me about **HTML5,CSS,JS,JAVA,C,C++,C#,Python,Dart,Swift**
 
 - 📫 How to reach me **send2liyanapathirana@gmail.com**
 
