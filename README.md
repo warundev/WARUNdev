@@ -4,7 +4,7 @@
   
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)</h3>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm WARUNA LIYANAPATHIRANA</h1>
-<h3 align="center">A passionate FullStack Developer from Sri Lanka.</h3>
+<h3 align="center">A passionate iOS Developer from Sri Lanka.</h3>
 
 <!--- git loading -->
  <div align=center>
@@ -14,7 +14,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=warundev&label=Profile%20views&color=0e75b6&style=flat" alt="warundev" /> </p>
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **iOS Development**
 
 - 💬 Ask me about **HTML5,CSS,JS,JAVA,C,C++,C#,Python,Dart,Swift**
 
