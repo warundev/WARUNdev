@@ -1,137 +1,139 @@
+<!-- =====================================================
+     WARUNA LIYANAPATHIRANA
+     APPLE INSPIRED DEVELOPER PROFILE
+====================================================== -->
+
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=WARUNA%20LIYANAPATHIRANA&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20iOS%20Engineer%20%7C%20UI%2FUX%20Designer&descSize=18&descAlignY=65"/>
 
-</div>
-
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&center=true&width=700&lines=Hi+👋+I'm+Waruna;Building+Digital+Experiences;Swift+%7C+React+%7C+Node.js+Developer;Turning+Ideas+Into+Products+🚀"/>
-
-</div>
-
-
----
-
-# 👨‍💻 About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-```typescript
-
-const developer = {
-
- name: "Waruna Liyanapathirana",
-
- country: "🇱🇰 Sri Lanka",
-
- role: [
-   "Full Stack Developer",
-   "iOS Developer",
-   "UI/UX Designer"
- ],
-
- currentlyBuilding: [
-   "Mobile Applications",
-   "Modern Websites",
-   "Software Solutions"
- ],
-
- learning:[
-   "SwiftUI Architecture",
-   "Cloud Systems",
-   "AI Integration"
- ],
-
- mindset:
- "Build products that solve real problems 🚀"
-
-};
-
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,100:1f1f1f&text=Waruna%20Liyanapathirana&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=iOS%20Developer%20•%20Full%20Stack%20Engineer%20•%20Digital%20Creator&descSize=18&descAlignY=60"/>
 
 
 <br>
 
 
----
-
-# 🚀 What I Do
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=22&pause=1000&color=FFFFFF&center=true&width=700&lines=Hello,+I'm+Waruna+👋;Building+Beautiful+Digital+Products;Swift+%7C+React+%7C+Cloud+Engineering;Design.+Develop.+Innovate.">
 
 
-### 📱 Mobile Development
-
-```
-Swift • SwiftUI • Flutter • Kotlin
-Clean Architecture • Firebase
-```
+<br>
 
 
-### 🌐 Full Stack Development
-
-```
-React • Next.js • Node.js
-PHP • REST APIs
-```
-
-
-### 🎨 Product Design
-
-```
-Figma • Adobe XD
-UI Systems • Prototyping
-```
-
-
-### ⚙️ Engineering
-
-```
-Database Design
-Cloud Deployment
-IoT & Arduino
-```
-
-
----
-
-
-# 🛠 Tech Arsenal
-
-
-<div align="center">
-
-
-<img src="https://skillicons.dev/icons?i=swift,flutter,kotlin,react,next,nodejs,js,ts,python,java,php,cs,cpp" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,git,github,figma,xd,ai,ps,arduino" />
+<img src="https://komarev.com/ghpvc/?username=warundev&style=for-the-badge&label=PROFILE+VIEWS&color=000000">
 
 
 </div>
 
 
+
+<br>
+
+
+
+<!-- ABOUT -->
+
+
+# About Me
+
+
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+I am **Waruna Liyanapathirana**, a software developer from Sri Lanka 🇱🇰.
+
+
+I design and build modern digital experiences combining:
+
+```
+Beautiful Interface
+
+        +
+
+Powerful Engineering
+
+        +
+
+Great User Experience
+```
+
+
+My focus is creating software that feels simple, fast and meaningful.
+
+
+
+<br>
+
+
+
+```swift
+
+import DeveloperKit
+
+
+struct Waruna {
+
+ let role =
+ "Software Engineer"
+
+
+ let platforms = [
+    "iOS",
+    "Web",
+    "Cloud"
+ ]
+
+
+ let technologies = [
+    "SwiftUI",
+    "React",
+    "Node.js",
+    "Firebase"
+ ]
+
+
+ let passion =
+ "Turning ideas into products 🚀"
+
+
+}
+
+```
+
+
+
+<br>
+
+
+
 ---
 
 
-# 🌟 Featured Projects
+# Expertise
+
 
 
 <table>
 
+
 <tr>
+
 
 <td width="50%">
 
 
-### 📱 iOS Application
+## 📱 Mobile Development
 
-Modern SwiftUI mobile application.
 
-**Tech**
-Swift • Firebase • MVVM
+Native and cross-platform applications.
+
+
+```
+Swift
+SwiftUI
+Flutter
+Kotlin
+Firebase
+```
 
 
 </td>
@@ -140,12 +142,19 @@ Swift • Firebase • MVVM
 <td width="50%">
 
 
-### 🌐 Web Platform
+## 🌐 Full Stack
 
-Full-stack web solution.
 
-**Tech**
-React • Node • MongoDB
+Modern scalable web platforms.
+
+
+```
+React
+Next.js
+Node.js
+PHP
+APIs
+```
 
 
 </td>
@@ -154,17 +163,25 @@ React • Node • MongoDB
 </tr>
 
 
+
 <tr>
+
 
 <td>
 
 
-### 🤖 IoT System
+## 🎨 UI / UX
 
-Arduino automation project.
 
-**Tech**
-C++ • Sensors • IoT
+Human focused interfaces.
+
+
+```
+Figma
+Adobe XD
+Illustrator
+Photoshop
+```
 
 
 </td>
@@ -173,12 +190,19 @@ C++ • Sensors • IoT
 <td>
 
 
-### 🎨 UI Design System
+## ⚙️ Engineering
 
-Modern interface designs.
 
-**Tech**
-Figma • Adobe XD
+Smart software solutions.
+
+
+```
+Databases
+Cloud
+Docker
+IoT
+Automation
+```
 
 
 </td>
@@ -191,81 +215,319 @@ Figma • Adobe XD
 
 
 
+<br>
+
+
+
 ---
 
-# 📊 Developer Analytics
+
+
+# Technology
 
 
 <div align="center">
 
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=warundev&show_icons=true&theme=tokyonight&hide_border=true"/>
+## Languages
 
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=warundev&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=swift,js,ts,python,java,php,cpp,cs,dart">
+
+
+<br><br>
+
+
+## Frameworks
+
+
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,flutter,tailwind,bootstrap">
+
+
+<br><br>
+
+
+## Database & Cloud
+
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,docker,github">
+
+
+<br><br>
+
+
+## Creative
+
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,xd">
+
+
+</div>
+
 
 
 <br>
 
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warundev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+---
 
 
-</div>
+
+# Featured Work
+
+
+
+<table>
+
+
+<tr>
+
+
+<td>
+
+
+## 🍎 iOS Apps
+
+
+Premium mobile experiences.
+
+
+**Stack**
+
+SwiftUI  
+MVVM  
+Firebase
+
+
+</td>
+
+
+
+<td>
+
+
+## 🌍 Web Systems
+
+
+Fast modern websites.
+
+
+**Stack**
+
+React  
+Node.js  
+Database
+
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td>
+
+
+## 🤖 Smart Systems
+
+
+Automation projects.
+
+
+**Stack**
+
+Arduino  
+IoT  
+Embedded Systems
+
+
+</td>
+
+
+
+<td>
+
+
+## ✨ Product Design
+
+
+Digital experiences.
+
+
+**Stack**
+
+Figma  
+UX Research  
+Prototyping
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+
+<br>
+
 
 
 ---
 
 
-# 🐍 Contribution Flow
+
+# GitHub Intelligence
+
 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/warundev/warundev/output/github-contribution-grid-snake-dark.svg">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=warundev&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff">
+
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=warundev&theme=dark&hide_border=true&background=000000">
+
+
+<br><br>
+
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warundev&layout=compact&theme=github_dark&hide_border=true&bg_color=000000">
+
 
 </div>
+
+
+
+<br>
+
 
 
 ---
 
 
-# 🌍 Connect With Me
+
+# Activity
 
 
 <div align="center">
 
 
-<a href="https://linkedin.com/in/warundev">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=warundev&bg_color=000000&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true">
 
 
-<a href="mailto:send2liyanapathirana@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
-</a>
+</div>
+
+
+
+<br>
+
+
+
+---
+
+
+
+# Current Focus
+
+
+```yaml
+
+2026 Goals:
+
+
+Building:
+ - iOS Applications
+ - SaaS Products
+ - AI Powered Software
+
+
+Learning:
+ - Advanced SwiftUI
+ - System Design
+ - Cloud Architecture
+
+
+Mission:
+ "Create technology that feels invisible."
+
+```
+
+
+
+<br>
+
+
+
+---
+
+
+
+# Connect
+
+
+<div align="center">
 
 
 <a href="https://github.com/warundev">
-<img src="https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=github">
+
+<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github">
+
 </a>
+
+
+
+<a href="https://linkedin.com/in/warundev">
+
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin">
+
+</a>
+
+
+
+<a href="mailto:send2liyanapathirana@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail">
+
+</a>
+
 
 
 </div>
 
 
+
 <br>
+
 
 
 <div align="center">
 
 
-### 💡
-
-*"Great software is built by developers who care about users."*
+## 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+### Think Different. Build Different.
+
+
+Software should not only work.
+
+It should feel beautiful.
+
+
+
+<br>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,100:1f1f1f">
 
 
 </div>
